@@ -45,7 +45,6 @@ xcuserdata/
 *.playground
 !default.playground
 *.playground/doc
-*.swift
 *.ipa
 *.dSYM.zip
 *.dSYM
